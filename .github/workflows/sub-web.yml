@@ -47,7 +47,7 @@ jobs:
       uses: EndBug/add-and-commit@v6
       with:
         author_name: GitHub Action
-        author_email: noreply@github.com
+        author_email: HANGCN9@github.com
         message: "Update sub-web from HANGCN9/sub-web"
         add: "-A"
       env:
